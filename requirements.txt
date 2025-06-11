@@ -1,0 +1,25 @@
+#langchain framework
+langchain==0.3.25
+langchain-community==0.3.16
+langchain-core==0.3.65
+langchain-openai==0.3.12
+langchain-text-splitters==0.3.8
+langsmith==0.3.45
+markdown-it-py==3.0.0
+#Streamlit and related libraries
+streamlit==1.44.1
+streamlit_pills==0.3.0
+streamlit-diff-viewer==0.0.2
+streamlit-option-menu==0.3.12
+temp==2020.7.2
+pandas==2.2.0
+prettytable==3.10.0
+pypdf==4.2.0
+pydy==0.7.1
+clarifai==11.2.2
+clarifai-grpc==11.2.6
+clarifai-protocol==0.0.20
+openai==1.86.0
+PyPDF2==3.0.1
+
+
