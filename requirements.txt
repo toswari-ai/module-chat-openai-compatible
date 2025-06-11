@@ -21,5 +21,6 @@ clarifai-grpc==11.2.6
 clarifai-protocol==0.0.20
 openai==1.86.0
 PyPDF2==3.0.1
+faiss-cpu==1.11.0
 
 
